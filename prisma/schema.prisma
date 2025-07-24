@@ -20,7 +20,7 @@ model User {
 model Barbershop {
   id           String              @id @default(uuid())
   name         String
-  descriptrion String
+  description String
   address      String
   imageUrl     String
   Phones       String[]
