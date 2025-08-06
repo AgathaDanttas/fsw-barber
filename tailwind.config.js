@@ -18,6 +18,7 @@ export default {
         gray3:  '#838896',
         redr:   '#EF4444',
         dark_red:'#2F1F1F',
+        custom_blue: '#221C3DE6',  
       },
       fontFamily:{
         sans: ['Nunito', 'sans-serif']
