@@ -12,7 +12,6 @@ export default {
         primary_purple:'#8162FF',
         background_black:'#141518',
         secondary_black: '#1A1B1F',
-        primary_purple: '#8162FF',
         gray1:  '#26272B',
         gray2:  '#4E525B',
         gray3:  '#838896',
