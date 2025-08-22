@@ -39,7 +39,7 @@ async function seedDatabase() {
       "Aparência Impecável",
       "Estilo Urbano",
       "Estilo Clássico",
-      "Barb Shop"
+  
     ];
 
     // Endereços fictícios para as barbearias
